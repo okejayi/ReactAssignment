@@ -1,0 +1,58 @@
+
+.section1, .section2, .section3, .section4, .section5, .section8{
+    background-color: rgb(60,35,101);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-top: 100px;
+    line-height: 70px;
+}
+
+
+.section1-child1{
+       width: 60%;
+        height: auto;
+        padding: 30px;
+        margin-top: 40px;
+    
+    }
+    
+    .section1-child2{
+       width: 45%;
+        height: auto;
+        margin-top: 15px;
+    }
+    
+    .section1-child1 h1{
+        color:yellow;
+        font-size: 58px;
+        font-family: sans-serif;
+        font-weight: 700px;
+    
+    }
+    
+    .section1-child1 h2{
+        color: white;
+        font-size: 58px;
+        font-family: sans-serif;
+        font-weight: 700px;
+    
+    }
+    
+    .section1-child1 P{
+        color: white;
+        font-size: 25px;
+        font-weight: 700px;
+        font-family: sans-serif;
+        line-height: 40px;
+        margin-top: 20px;
+    }
+    
+    .section1 button{
+        background-color: #FFCF33;
+        color: black;
+        font-weight: 700px;
+        
+    }
